@@ -1,5 +1,5 @@
 - Hi, I’m Ozan Özel
 - I'm an Aerospace Engineer  
 - I’m interested in AI and Robotics
-- I’m currently learning Python and C++
+- I’m currently honing my Python and C++ skills
 - You can reach me at oezel.ozan@gmail.com
