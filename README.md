@@ -1,5 +1,5 @@
-- 👋 Hi, I’m Ozan Özel
+- Hi, I’m Ozan Özel
 - I'm an Aerospace Engineer  
-- 👀 I’m interested in AI and Robotics
-- 🌱 I’m currently learning Python and C++
-- 📫 You can reach me at oezel.ozan@gmail.com
+- I’m interested in AI and Robotics
+- I’m currently learning Python and C++
+- You can reach me at oezel.ozan@gmail.co
